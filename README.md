@@ -25,14 +25,6 @@
 
 </div>
 
-## Minhas estatísticas no github
-
-<p>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelfreba&show_icons=true&theme=gotham"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfreba&layout=compact&langs_count=7&theme=gotham"/>  
-</p>
-
-
           
           
           
